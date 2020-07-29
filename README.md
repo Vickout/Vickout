@@ -2,7 +2,7 @@
 
 My name is Victor Lourenço from Brazil (🇧🇷). I've been studying Front-End and Mobile development with React and React Native since january 2020 and currently I'm working on my portfolio projects and add here on my Github repositories. Besides that I'm learning about Interaction Design for Digital Artifacts, so I've been learning so much UX/UI Design to improve my carrer on Digital World.
 
-In my free time I like to read books (📚), to paint with watercolor (🎨), to draw (✏️) to watch movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like to talk about life with a beer with friends (🍺).
+In my free time I like to read books (📚), to paint with watercolor (🎨), to draw (✏️), to watch movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like to talk about life with a beer with friends (🍺).
 
 Would you like to find me?
 
