@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 😁
 
-<!--
-**Vickout/Vickout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor Lourenço from Brazil (🇧🇷). I've been studying Front-End and Mobile development with React and React Native since january 2020 and currently I'm working on my portfolio projects and add here on my Github repositories. Besides that I'm learning about Interaction Design for Digital Artifacts, so I've been learning so much UX/UI Design to improve my carrer on Digital World.
 
-Here are some ideas to get you started:
+In my free time I like to read books (📚), to paint with watercolor (🎨), to draw (✏️) to watch movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like to talk about life with a beer with friends (🍺).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)](https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)
+
+- 🔭 I’m currently working on Imersão Alura
+- 🌱 I’m currently learning Metadesign
+- 👯 I’m looking to collaborate on React/React Native projects
+- 🤔 I’m looking for help with freelancer career
+- 💬 Ask me about Design Thinking
