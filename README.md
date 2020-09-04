@@ -8,8 +8,8 @@ Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)](https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)
 
-- 🔭 I’m currently working on NLW #2 from Rocktseat
-- 🌱 I’m currently learning ReactJS, React Native and Node.js
+- 🔭 I’m currently working on Frontend project with typescript from ONG Ideia
+- 🌱 I’m currently learning UX, ReactJS, React Native and Node.js
 - 👯 I’m looking to collaborate on React/React Native projects
 - 🤔 I’m looking for help with freelancer career
 - 💬 Ask me about Design Thinking
