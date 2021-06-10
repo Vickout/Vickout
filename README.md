@@ -6,10 +6,10 @@ In my free time I like to read books (📚), to paint with watercolor (🎨), to
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)](https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-louren%C3%A7o/)](https://www.linkedin.com/in/victor-louren%C3%A7o-a17a34140/)
 
-- 🔭 I’m currently working on Frontend project with typescript from ONG Ideia
+- 🔭 I’m currently working on Accenture's projects
 - 🌱 I’m currently learning UX, ReactJS, React Native and Node.js
 - 👯 I’m looking to collaborate on React/React Native projects
-- 🤔 I’m looking for help with freelancer career
+- 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about Design Thinking
